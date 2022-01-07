@@ -1,0 +1,4 @@
+---
+# tasks file for role_msg
+- debug:
+    msg: "Hii I am here"
